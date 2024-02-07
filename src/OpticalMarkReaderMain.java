@@ -8,8 +8,6 @@ import java.util.ArrayList;
 
 import static FileIO.PDFHelper.getPImagesFromPdf;
 
-// Author: David Dobervich (this is my edit)
-// ANOTHER EDIT.
 public class OpticalMarkReaderMain {
     public static void main(String[] args) {
         /**String pathToPdf = fileChooser();
